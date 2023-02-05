@@ -1,0 +1,10 @@
+
+g
+java:S4276"QRefactor this code to use the more specialised Functional Interface 'IntConsumer'(ð×Äý
+E
+java:S1611"/Remove the parentheses around the "i" parameter(ð×Äý
+V
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(ð×Äý
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ð×Äý
+N
+java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Íž
