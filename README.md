@@ -11,11 +11,11 @@ Java8 기능의 샘플 구성 프로젝트 입니다.
 - function
   - bifunction : 두 개의 값(T, U)를 받아서 R 타입을 리턴하는 함수 인터페이스
   - binaryoperator : BiFunction<T, U, R>의 특수한 형태로, 동일한 타입의 입렵값 두개를 받아 리턴하는 함수 인터페이스
- - consumer : 타입을 받아서 아무값도 리턴하지 않는 함수 인터페이스
- - function : T 타입을 받아서 R 타입을 리턴하는 함수 인터페이스
- - predicate : T 타입을 받아서 boolean을 리턴하는 함수 인터페이스
- - supplier : T 타입의 값을 제공하는 함수 인터페이스
- - unaryoperator : Function<T, R>의 특수한 형태로, 입력값 하나를 받아서 동일한 타입을 리턴하는 함수 인터페이스
+  - consumer : 타입을 받아서 아무값도 리턴하지 않는 함수 인터페이스
+  - function : T 타입을 받아서 R 타입을 리턴하는 함수 인터페이스
+  - predicate : T 타입을 받아서 boolean을 리턴하는 함수 인터페이스
+  - supplier : T 타입의 값을 제공하는 함수 인터페이스
+  - unaryoperator : Function<T, R>의 특수한 형태로, 입력값 하나를 받아서 동일한 타입을 리턴하는 함수 인터페이스
 
 - interface : default 메소드를 확인합니다.
 - method : Spliterator 메소드를 통한 데이터를 반씩 나누어 로직처리를 합니다.
